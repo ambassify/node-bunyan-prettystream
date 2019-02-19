@@ -1,6 +1,6 @@
 {
   "name": "@ambassify/bunyan-prettystream",
-  "version": "0.3.1",
+  "version": "1.0.0",
   "description": "A stream implementation of the bunyan cli tool's pretty printing capabilities with circular reference safety",
   "author": "Daryl Collins <daryl.collins@pushpay.com>",
   "main": "./lib/prettystream.js",
